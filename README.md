@@ -24,7 +24,7 @@ The College Entertainment Console is a semester project developed in core Java. 
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/college-entertainment-console.git
+   git clone https://github.com/high-horse/Entertainment-console-java.git
    ```
    
    
